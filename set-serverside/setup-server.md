@@ -22,3 +22,13 @@ clone this repo
 # cd /srv
 # git clone git@github.com:pm-lab-polito/pml-server.git
 ```
+
+add global git identity
+
+``` bash
+# cd pml-server
+# git config --global user.name "PM lab Admin"
+# git config --global user.email "pm-lab@polito.it"
+```
+
+next step: 
