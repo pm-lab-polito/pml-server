@@ -8,4 +8,4 @@ This repo is public but only org members can edit.
 
 ## Managing the server
 
-Server management tasks are project managed using a github project
+Server management tasks are project managed using a [github project](https://github.com/pm-lab-polito/pml-server/projects/1) 
