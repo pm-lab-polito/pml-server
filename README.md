@@ -16,4 +16,4 @@ Secrets, such ad usernames, passwords, tokens, etc. **MUST not be written** in t
 
 The secrets are available on pm-lab.polito.it/nextcloud.
 
-Password are stored in the password app for pm-lab@polito.it and as a file in the Admin group folder.
+Password are stored in the password [app for pm-lab@polito.it](https://pm-lab.polito.it/nextcloud/apps/passwords/#/folders) and as a [file](https://pm-lab.polito.it/nextcloud/index.php/f/43154) in the Admin group folder.
